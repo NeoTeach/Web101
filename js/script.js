@@ -1,1 +1,1 @@
-console.log(neo)
+console.log('neo')
